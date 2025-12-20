@@ -1,6 +1,9 @@
 <!-- Aesthetic Title -->
-<h1 align="center">Syed Suhaan</h1>
-<h3 align="center">Flutter & Full-Stack Developer | Systems Enthusiast | CP Practitioner</h3>
+# Syed Suhaan
+**B.Tech @ Manipal Institute of Technology (2023–2027)**  
+📍 Manipal, Karnataka  
+📧 suhaansyed2004@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/syed-suhaan) | [GitHub](https://github.com/Syed-Suhaan)
 
 <p align="center">
   <a href="https://github.com/Syed-Suhaan">
@@ -10,25 +13,28 @@
 
 ---
 
-### 🚀 About Me  
-I’m a third-year B.Tech student at **MIT Manipal**, currently building things across systems, full-stack, and mobile development.  
-I enjoy writing clean, performant code — whether it’s a **Flutter app**, a **MERN service**, or a **Redis-like datastore in Go**.
-
-I also compete actively in **Competitive Programming**, where I break problems the way one disassembles a gadget to see how it ticks.
+###  About Me  
+I’m a systems-oriented software engineer with strong foundations in **algorithms, distributed systems, and product engineering**.  
+I enjoy building **low-level infrastructure**, **performance-critical backends**, and **end-to-end products** that ship to real users.
 
 ---
 
-### 🧩 What I’m Working On  
-- **Radish** — a Redis-style key-value store built in Go  
-- Full-stack projects with **Node.js + MongoDB**  
-- Flutter apps that feel smooth enough to butter toast
+### Highlighted Work
+- **SusyDB (Go):** Redis-compatible in-memory KV store, **150k+ req/s**, sub-2ms p99, production deployed  
+- **ALRA:** RAG system with confidence scoring to reduce LLM hallucinations  
+- **PassportPhotoIndia:** Client-side photo engine, **2k+ users in 20 days**  
+- **ERAS App:** Healthcare dashboard, **1st place** at App-A-Thon 2024
 
 ---
 
-### 📚 What I’m Learning  
-- **Go internals**, concurrency, and TCP socket programming  
-- **Flutter** architectures & scalable state-management  
-- Strengthening system design & backend engineering fundamentals  
+### Competitive Programming
+Codeforces **Specialist (1494)** · CodeChef **3★ (1653)**  
+Meta Hacker Cup 2025 Round 2 — Global Rank **2065**
+
+---
+
+Currently exploring **distributed systems, backend infra, and AI systems with evaluation guarantees**.
+ 
 
 ---
 
@@ -81,15 +87,8 @@ I also compete actively in **Competitive Programming**, where I break problems t
 
 ---
 
-### 🏆 Highlights  
-- **Specialist** on Codeforces, **3★** on CodeChef  
-- Built **Radish**, a Redis-like datastore in Go (RESP, goroutines, mutexes)  
-- Developed **PassportPhotoIndia** (MERN) with sub-second image processing  
-- Won **1st place** at App-A-Thon 2024 for ERAS Protocol App  
 
----
 
-### ✨ Fun Fact  
-I love making tools that make life easier — whether for developers, patients, or just future-me who always forgets something.
+⭐ *Always building. Always benchmarking. Always learning.*
 
 ---

@@ -1,9 +1,10 @@
 <!-- Aesthetic Title -->
 # Syed Suhaan
-**B.Tech @ Manipal Institute of Technology (2023–2027)**  
+**B.Tech EE + Data Science @ Manipal Institute of Technology (2023–2027)**  
 📍 Manipal, Karnataka  
 📧 suhaansyed2004@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/syed-suhaan) | [GitHub](https://github.com/Syed-Suhaan)
+🔗 [LinkedIn](https://linkedin.com/in/syed)suhaan) | [GitHub](https://github.com/Syed-Suhaan)
+
 
 <p align="center">
   <a href="https://github.com/Syed-Suhaan">
@@ -13,32 +14,57 @@
 
 ---
 
-###  About Me  
-I’m a systems-oriented software engineer with strong foundations in **algorithms, distributed systems, and product engineering**.  
-I enjoy building **low-level infrastructure**, **performance-critical backends**, and **end-to-end products** that ship to real users.
+### About Me  
+I’m a systems-oriented software engineer focused on **distributed systems, backend infrastructure, and AI systems**.  
+
+Currently building **[SecondCortex](https://secondcortex.tech)** — an AI-powered developer memory system that brings **persistent context, decision intelligence, and local-first privacy** to modern coding workflows.  
+
+I enjoy designing **performance-critical systems**, **developer infrastructure**, and **end-to-end products** that operate at scale.
 
 ---
 
-### Highlighted Work
-- **SusyDB (Go):** Redis-compatible in-memory KV store, **150k+ req/s**, sub-2ms p99, production deployed  
-- **ALRA:** RAG system with confidence scoring to reduce LLM hallucinations  
-- **PassportPhotoIndia:** Client-side photo engine, **2k+ users in 20 days**  
-- **ERAS App:** Healthcare dashboard, **1st place** at App-A-Thon 2024
+###  Highlighted Work
+
+- **SecondCortex:** AI-powered developer memory system with **multi-agent architecture + MCP server**  
+- **SusyDB (Go):** Redis-compatible KV store → **150k+ req/s**, sub-2ms p99, production-grade  
+- **ALRA:** Agentic RAG system with **hallucination scoring + evaluation metrics**  
+- **PassportPhotoIndia:** Client-side SaaS → **4k+ users in 30 days, revenue generated**  
+- **ERAS App:** Healthcare dashboard → **🏆 1st place, App-A-Thon 2024**
 
 ---
 
-### Competitive Programming
-Codeforces **Specialist (1494)** · CodeChef **3★ (1653)**  
-Meta Hacker Cup 2025 Round 2 — Global Rank **2065**
+###  **[SecondCortex](https://secondcortex.tech)** (AI Infra)
+
+> *“Your code exists. Your context doesn’t. SecondCortex fixes that.”*
+
+- Built a **4-agent system (Planner · Retriever · Executor · Simulator)** for developer workflows  
+- Designed **local-first memory layer (ChromaDB)** with semantic retrieval across code + decisions  
+- Developed **Semantic Firewall** → strips secrets before any external LLM interaction  
+- Exposed memory via **MCP (Model Context Protocol)** → usable by Claude, Copilot, Cursor  
+- Implemented **Workspace Resurrection Engine** → restores full dev state (files, branch, terminal intent)  
+- Deployed full stack on **Azure (FastAPI + Next.js + CI/CD pipelines)**  
+
+📌 Selected **Top 50 / 5,000+ teams — Microsoft AI Unlocked**  
+📌 Currently competing for **Top 10**
 
 ---
 
-Currently exploring **distributed systems, backend infra, and AI systems with evaluation guarantees**.
- 
+###  Achievements
+
+- 🟦 **Microsoft AI Unlocked 2026 — Top 50 / 10,000+ teams (Top 0.5%)**  
+- 🟧 **Cisco Champions League CNSL — Top 15**  
+- 🌍 **Meta Hacker Cup 2025 — Global Rank 2065 (Top ~0.3%)**  
+- 💻 Codeforces **Specialist (~1500)** · CodeChef **3★ (~1700)**  
 
 ---
 
-### 🤝 Connect With Me  
+### 💻 Competitive Programming
+- 400+ problems solved across **LeetCode, Codeforces, CodeChef**
+- Strong focus on **DSA + problem-solving under constraints**
+
+---
+
+### Connect With Me  
 <p>
   <a href="https://linkedin.com/in/syed-suhaan">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
@@ -87,8 +113,4 @@ Currently exploring **distributed systems, backend infra, and AI systems with ev
 
 ---
 
-
-
-⭐ *Always building. Always benchmarking. Always learning.*
-
----
+⭐ *Always building. Always learning.*

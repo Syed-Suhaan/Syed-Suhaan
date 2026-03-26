@@ -51,7 +51,7 @@ I enjoy designing **performance-critical systems**, **developer infrastructure**
 
 ###  Achievements
 
-- 🟦 **Microsoft AI Unlocked 2026 — Top 50 / 10,000+ teams (Top 0.5%)**  
+- 🟦 **Microsoft AI Unlocked 2026 — Top 50 / 5,000+ teams (Top 0.5%)**  
 - 🟧 **Cisco Champions League CNSL — Top 15**  
 - 🌍 **Meta Hacker Cup 2025 — Global Rank 2065 (Top ~0.3%)**  
 - 💻 Codeforces **Specialist (~1500)** · CodeChef **3★ (~1700)**  
